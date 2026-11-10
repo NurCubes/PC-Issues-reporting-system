@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+admin_key.txt
+*.log
+   ~$*
+
+firebase_config.json
+monitor.log
+*.db
+*.db-wal
+*.db-shm
